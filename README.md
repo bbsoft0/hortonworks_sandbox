@@ -1,7 +1,9 @@
 # hortonworks_sandbox
+
 for Hortonworks Sandbox on Ubuntu20
 
 Install docker
+
 ```
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
@@ -34,7 +36,6 @@ Login using these credentials at Port 2222
 After logging in verify,
 sandbox-version
 Output should be:
-
 
 Check installed version of Hadoop and Hive
 hadoop version

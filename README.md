@@ -56,9 +56,6 @@ hive --version
 
 Hadoop 2.7.3.2.6.5.0-292 & Hive 1.2.1000.2.6.5.0-292 should be obtained.
 
-If you use docker desktop, you do not neet to continue with the below section.
-You can just start the containers using the play button in docker desktop.
-
 
 On reboot, the docker container does not start. Do the follow for it to restart after every reboot.
 ```
